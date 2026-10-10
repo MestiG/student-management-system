@@ -1,0 +1,48 @@
+const classes = [
+  {
+    id: 1,
+    name: "Computer Science - Section A",
+    code: "CS-A-01",
+    department: "Computer Science",
+    year: "1st Year",
+    students: 45,
+    room: "Room 101",
+    schedule: "Mon & Wed - 8:00 AM",
+    status: "Active",
+  },
+  {
+    id: 2,
+    name: "Information Technology - Section A",
+    code: "IT-A-01",
+    department: "Information Technology",
+    year: "2nd Year",
+    students: 38,
+    room: "Room 202",
+    schedule: "Tue & Thu - 10:00 AM",
+    status: "Active",
+  },
+  {
+    id: 3,
+    name: "Software Engineering - Section B",
+    code: "SE-B-02",
+    department: "Software Engineering",
+    year: "3rd Year",
+    students: 42,
+    room: "Room 305",
+    schedule: "Mon & Fri - 2:00 PM",
+    status: "Active",
+  },
+  {
+    id: 4,
+    name: "Computer Science - Section B",
+    code: "CS-B-02",
+    department: "Computer Science",
+    year: "4th Year",
+    students: 31,
+    room: "Room 110",
+    schedule: "Wed & Fri - 10:00 AM",
+    status: "Inactive",
+  },
+]
+
+export default classes
